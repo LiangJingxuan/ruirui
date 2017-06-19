@@ -1,1 +1,4 @@
 body{color: red;text-align: center;}
+/* 内容样式设置 */
+p{color: blueviolet;background: dodgerblue;margin: 0 auto;}
+span{display: block;width: 15px;height: 15px;margin: 0 auto;}
