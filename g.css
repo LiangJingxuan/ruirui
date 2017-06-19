@@ -2,3 +2,6 @@ body{color: red;text-align: center;}
 /* 内容样式设置 */
 p{color: blueviolet;background: dodgerblue;margin: 0 auto;}
 span{display: block;width: 15px;height: 15px;margin: 0 auto;}
+/* 底部内容修改 */
+footer{width: 100%;height: 50px;background: red;color: #ffffff;font-size: 15px;}
+footer span{background: lightseagreen;display: block;float: left;line-height: 30px;}
