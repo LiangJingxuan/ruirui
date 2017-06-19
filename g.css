@@ -12,3 +12,6 @@ header div p{color: mediumaquamarine;}
 
 /* 列表 */
 .list{display: block;}
+
+/* 二级页面内容*/
+.content{color: red;border: 1px solid red;}
