@@ -21,3 +21,7 @@ header div p{color: mediumaquamarine;}
 
 /* 新闻列表 */
 .newList{color: red;}
+
+/* 新闻 */
+.new{position: absolute;top: 0;left: 0;}
+
